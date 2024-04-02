@@ -1,28 +1,10 @@
 # Customer dashboard
 
-### Chart 1
-
 ```js
 display(chart1);
-```
-
-### Chart 2
-
-```js
 display(chart2);
-```
-
-### Table 1
-
-```js
 display(table1);
 ```
-
-<div class="grid grid-cols-3">
-  <div>${chart1}</div>
-  <div>${chart2}</div>
-  <div>${table1}</div>
-</div>
 
 <!-- Access data from loader, make charts & table -->
 
@@ -66,5 +48,7 @@ const chart2 = Plot.plot({
 ```
 
 ```js
-const table1 = Inputs.table(customers);
+const table1 = Inputs.table(
+  customers.map((d) => ({ id: d.id, state: d.state, total_usd: d.total_usd }))
+);
 ```
