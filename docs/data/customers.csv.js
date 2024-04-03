@@ -14,18 +14,7 @@ const getRandomPrice = () => {
 
 // Function to generate a random state
 const getRandomState = () => {
-  const states = [
-    "New York",
-    "California",
-    "Texas",
-    "Florida",
-    "Illinois",
-    "Pennsylvania",
-    "Ohio",
-    "Georgia",
-    "Michigan",
-    "North Carolina",
-  ];
+  const states = ["NY", "CA", "TX", "FL", "IL", "PA", "OH", "GA", "MI", "NC"];
   return states[Math.floor(Math.random() * states.length)]; // Randomly select a state from the array
 };
 

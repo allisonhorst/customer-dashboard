@@ -9,7 +9,7 @@ Commodo ullamcorper a lacus vestibulum sed arcu non odio. Nisl vel pretium lectu
 - Turpis tincidunt id aliquet risus feugiat.
 
 ```js
-const customers = await FileAttachment("data/customers.csv").csv({
+const customers = await FileAttachment("data/customer_orders.csv").csv({
   typed: true,
 });
 ```

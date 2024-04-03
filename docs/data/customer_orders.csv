@@ -1,0 +1,201 @@
+id,name,price_usd,discount_pct,total_usd,state,device_type,number_of_items,email
+1,Customer 1,254.87,43,145.2759,IL,phone,3,customer1@gmail.com
+2,Customer 2,959.82,17,796.6506,MI,other,5,customer2@gmail.com
+3,Customer 3,457.9,9,416.689,NY,phone,6,customer3@yahoo.com
+4,Customer 4,793.46,5,753.787,NC,other,2,customer4@gmail.com
+5,Customer 5,727.5,48,378.3,FL,in store,3,customer5@outlook.com
+6,Customer 6,428.88,26,317.3712,GA,other,10,customer6@gmail.com
+7,Customer 7,667.53,17,554.0499,OH,other,9,customer7@hotmail.com
+8,Customer 8,50.12,19,40.5972,IL,other,4,customer8@yahoo.com
+9,Customer 9,474.87,20,379.896,MI,mobile,5,customer9@gmail.com
+10,Customer 10,366.71,47,194.3563,TX,in store,7,customer10@hotmail.com
+11,Customer 11,253.14,27,184.79219999999998,CA,phone,5,customer11@example.com
+12,Customer 12,519.23,29,368.6533,TX,phone,9,customer12@example.com
+13,Customer 13,870.61,29,618.1331,TX,in store,4,customer13@outlook.com
+14,Customer 14,916.31,43,522.2967,NC,phone,12,customer14@yahoo.com
+15,Customer 15,206.05,27,150.4165,NY,mobile,7,customer15@yahoo.com
+16,Customer 16,91.89,3,89.13329999999999,CA,in store,8,customer16@outlook.com
+17,Customer 17,352.02,0,352.02,NY,other,2,customer17@gmail.com
+18,Customer 18,886.89,11,789.3321,NC,mobile,10,customer18@yahoo.com
+19,Customer 19,305.06,2,298.9588,IL,mobile,1,customer19@gmail.com
+20,Customer 20,71.69,8,65.9548,NY,in store,2,customer20@yahoo.com
+21,Customer 21,980.46,3,951.0462,NC,mobile,11,customer21@gmail.com
+22,Customer 22,755.03,40,453.018,PA,mobile,8,customer22@hotmail.com
+23,Customer 23,453.21,1,448.67789999999997,GA,mobile,4,customer23@hotmail.com
+24,Customer 24,529.74,21,418.49460000000005,TX,mobile,8,customer24@hotmail.com
+25,Customer 25,668.21,34,441.0186,FL,mobile,2,customer25@hotmail.com
+26,Customer 26,191,5,181.45,IL,phone,12,customer26@yahoo.com
+27,Customer 27,748.2,10,673.3800000000001,IL,mobile,2,customer27@outlook.com
+28,Customer 28,726.63,31,501.37469999999996,IL,phone,12,customer28@hotmail.com
+29,Customer 29,332.78,7,309.48539999999997,MI,in store,10,customer29@hotmail.com
+30,Customer 30,420.12,42,243.66960000000003,GA,in store,11,customer30@yahoo.com
+31,Customer 31,381.14,10,343.026,NC,mobile,4,customer31@yahoo.com
+32,Customer 32,551.43,13,479.74409999999995,MI,phone,6,customer32@gmail.com
+33,Customer 33,728.23,47,385.9619,IL,other,2,customer33@gmail.com
+34,Customer 34,821.28,26,607.7472,NY,in store,1,customer34@yahoo.com
+35,Customer 35,930.41,49,474.5091,FL,mobile,3,customer35@hotmail.com
+36,Customer 36,295.08,8,271.4736,TX,mobile,6,customer36@outlook.com
+37,Customer 37,648.66,18,531.9012,IL,in store,4,customer37@gmail.com
+38,Customer 38,900.04,40,540.024,OH,other,12,customer38@gmail.com
+39,Customer 39,788.68,37,496.86839999999995,NC,mobile,8,customer39@yahoo.com
+40,Customer 40,868.66,45,477.76300000000003,NY,in store,12,customer40@hotmail.com
+41,Customer 41,116.11,14,99.8546,OH,other,3,customer41@gmail.com
+42,Customer 42,337.46,34,222.72359999999995,GA,mobile,12,customer42@outlook.com
+43,Customer 43,828.63,43,472.31910000000005,NY,phone,7,customer43@outlook.com
+44,Customer 44,61.65,40,36.989999999999995,TX,phone,4,customer44@yahoo.com
+45,Customer 45,888.59,14,764.1874,CA,mobile,2,customer45@hotmail.com
+46,Customer 46,965.4,26,714.396,CA,mobile,7,customer46@outlook.com
+47,Customer 47,701.18,21,553.9322,IL,other,3,customer47@gmail.com
+48,Customer 48,548.68,38,340.18159999999995,NY,phone,9,customer48@hotmail.com
+49,Customer 49,297.1,32,202.028,IL,other,12,customer49@yahoo.com
+50,Customer 50,172.36,0,172.36,CA,in store,2,customer50@hotmail.com
+51,Customer 51,619.32,46,334.43280000000004,CA,other,1,customer51@gmail.com
+52,Customer 52,21.08,49,10.7508,MI,other,11,customer52@outlook.com
+53,Customer 53,92.28,49,47.0628,NY,phone,10,customer53@outlook.com
+54,Customer 54,536.73,32,364.97639999999996,OH,mobile,11,customer54@example.com
+55,Customer 55,84.26,30,58.982,CA,other,11,customer55@example.com
+56,Customer 56,354.23,34,233.7918,FL,phone,6,customer56@outlook.com
+57,Customer 57,365.73,12,321.8424,TX,in store,9,customer57@example.com
+58,Customer 58,513.04,13,446.34479999999996,FL,phone,1,customer58@yahoo.com
+59,Customer 59,978.36,27,714.2028,OH,phone,1,customer59@example.com
+60,Customer 60,47.82,23,36.821400000000004,GA,mobile,1,customer60@example.com
+61,Customer 61,725.95,15,617.0575,IL,other,8,customer61@gmail.com
+62,Customer 62,302.78,34,199.83479999999994,CA,phone,12,customer62@outlook.com
+63,Customer 63,275.3,39,167.933,OH,phone,2,customer63@outlook.com
+64,Customer 64,595.22,6,559.5068,MI,in store,10,customer64@gmail.com
+65,Customer 65,67.49,50,33.745,MI,mobile,1,customer65@hotmail.com
+66,Customer 66,177.89,46,96.0606,IL,mobile,7,customer66@hotmail.com
+67,Customer 67,717.35,36,459.10400000000004,NY,mobile,3,customer67@hotmail.com
+68,Customer 68,609.46,32,414.4328,PA,mobile,11,customer68@yahoo.com
+69,Customer 69,287.21,4,275.72159999999997,NY,in store,8,customer69@yahoo.com
+70,Customer 70,86.43,17,71.7369,MI,mobile,11,customer70@example.com
+71,Customer 71,214.05,39,130.5705,FL,in store,4,customer71@hotmail.com
+72,Customer 72,822.18,24,624.8568,FL,mobile,5,customer72@example.com
+73,Customer 73,546.42,10,491.77799999999996,OH,phone,8,customer73@outlook.com
+74,Customer 74,198.52,7,184.6236,FL,other,8,customer74@example.com
+75,Customer 75,352.91,25,264.6825,CA,phone,2,customer75@yahoo.com
+76,Customer 76,683.75,36,437.6,CA,other,9,customer76@outlook.com
+77,Customer 77,549.7,9,500.22700000000003,TX,in store,4,customer77@outlook.com
+78,Customer 78,741.81,7,689.8832999999998,CA,phone,8,customer78@hotmail.com
+79,Customer 79,687.82,6,646.5508,NY,other,6,customer79@example.com
+80,Customer 80,163.41,49,83.3391,MI,other,1,customer80@hotmail.com
+81,Customer 81,603.76,41,356.21840000000003,NC,in store,7,customer81@hotmail.com
+82,Customer 82,430.03,24,326.8228,FL,in store,2,customer82@hotmail.com
+83,Customer 83,943.73,48,490.73960000000005,CA,mobile,4,customer83@gmail.com
+84,Customer 84,156.32,1,154.7568,GA,in store,1,customer84@gmail.com
+85,Customer 85,584.28,39,356.4108,NY,phone,12,customer85@example.com
+86,Customer 86,780.02,18,639.6164,MI,in store,1,customer86@gmail.com
+87,Customer 87,67.65,5,64.2675,NC,mobile,5,customer87@hotmail.com
+88,Customer 88,792.9,13,689.823,MI,phone,11,customer88@example.com
+89,Customer 89,219.72,30,153.804,GA,mobile,11,customer89@gmail.com
+90,Customer 90,738.55,48,384.046,MI,other,1,customer90@outlook.com
+91,Customer 91,618.28,13,537.9036,TX,in store,12,customer91@gmail.com
+92,Customer 92,461.89,33,309.46629999999993,PA,phone,10,customer92@hotmail.com
+93,Customer 93,740.82,6,696.3708,TX,in store,5,customer93@gmail.com
+94,Customer 94,684.96,42,397.2768000000001,PA,in store,5,customer94@gmail.com
+95,Customer 95,316.17,36,202.3488,NY,in store,1,customer95@gmail.com
+96,Customer 96,352.46,42,204.42680000000001,TX,phone,9,customer96@gmail.com
+97,Customer 97,57.08,23,43.9516,FL,in store,9,customer97@gmail.com
+98,Customer 98,507.58,43,289.3206,TX,phone,7,customer98@gmail.com
+99,Customer 99,254.35,25,190.7625,TX,phone,10,customer99@yahoo.com
+100,Customer 100,902.11,31,622.4558999999999,TX,phone,1,customer100@example.com
+101,Customer 101,692.54,18,567.8828,PA,in store,8,customer101@outlook.com
+102,Customer 102,306.56,23,236.0512,PA,phone,1,customer102@yahoo.com
+103,Customer 103,232.31,47,123.1243,FL,phone,6,customer103@example.com
+104,Customer 104,344.2,0,344.2,FL,in store,11,customer104@example.com
+105,Customer 105,577.91,16,485.4444,MI,other,7,customer105@hotmail.com
+106,Customer 106,302.95,5,287.80249999999995,PA,mobile,3,customer106@hotmail.com
+107,Customer 107,958.18,32,651.5623999999999,IL,mobile,9,customer107@hotmail.com
+108,Customer 108,226.76,14,195.0136,PA,phone,9,customer108@hotmail.com
+109,Customer 109,109.94,8,101.1448,PA,mobile,9,customer109@example.com
+110,Customer 110,928.44,49,473.50440000000003,NC,in store,7,customer110@example.com
+111,Customer 111,817.46,33,547.6981999999999,MI,phone,4,customer111@gmail.com
+112,Customer 112,555.73,41,327.88070000000005,GA,other,8,customer112@example.com
+113,Customer 113,989.91,45,544.4505,GA,in store,5,customer113@yahoo.com
+114,Customer 114,103.22,1,102.1878,OH,phone,4,customer114@gmail.com
+115,Customer 115,371.25,44,207.9,OH,mobile,11,customer115@outlook.com
+116,Customer 116,83.74,17,69.5042,FL,mobile,11,customer116@outlook.com
+117,Customer 117,333.62,2,326.9476,FL,mobile,7,customer117@outlook.com
+118,Customer 118,470.34,35,305.721,TX,other,7,customer118@outlook.com
+119,Customer 119,113.12,35,73.528,OH,phone,3,customer119@yahoo.com
+120,Customer 120,394.4,23,303.688,CA,phone,8,customer120@hotmail.com
+121,Customer 121,197.97,6,186.09179999999998,MI,other,5,customer121@outlook.com
+122,Customer 122,77.98,7,72.5214,OH,mobile,1,customer122@outlook.com
+123,Customer 123,111.27,24,84.5652,GA,in store,3,customer123@hotmail.com
+124,Customer 124,786.47,25,589.8525,PA,in store,12,customer124@gmail.com
+125,Customer 125,978.39,46,528.3306,PA,phone,1,customer125@yahoo.com
+126,Customer 126,141.25,23,108.7625,IL,in store,4,customer126@yahoo.com
+127,Customer 127,514.73,32,350.0164,NY,mobile,9,customer127@example.com
+128,Customer 128,914.59,15,777.4015,OH,mobile,6,customer128@hotmail.com
+129,Customer 129,631.43,4,606.1727999999999,GA,phone,11,customer129@yahoo.com
+130,Customer 130,433.2,6,407.20799999999997,MI,in store,6,customer130@yahoo.com
+131,Customer 131,459.76,34,303.44159999999994,PA,in store,4,customer131@yahoo.com
+132,Customer 132,169.67,15,144.21949999999998,GA,other,12,customer132@gmail.com
+133,Customer 133,32.61,19,26.4141,NC,in store,10,customer133@outlook.com
+134,Customer 134,824.63,5,783.3985,NC,other,11,customer134@outlook.com
+135,Customer 135,876.85,13,762.8595,NY,other,5,customer135@hotmail.com
+136,Customer 136,377.61,33,252.99869999999999,NC,mobile,9,customer136@hotmail.com
+137,Customer 137,668.06,12,587.8928,GA,other,12,customer137@gmail.com
+138,Customer 138,717.52,13,624.2424,FL,in store,5,customer138@outlook.com
+139,Customer 139,194.43,49,99.1593,TX,mobile,2,customer139@hotmail.com
+140,Customer 140,690.63,33,462.72209999999995,OH,other,6,customer140@example.com
+141,Customer 141,756.95,31,522.2955,NY,mobile,12,customer141@outlook.com
+142,Customer 142,687.87,12,605.3256,IL,in store,3,customer142@gmail.com
+143,Customer 143,102.9,47,54.537000000000006,MI,phone,9,customer143@outlook.com
+144,Customer 144,71.62,30,50.134,FL,other,2,customer144@gmail.com
+145,Customer 145,257.19,16,216.03959999999998,NY,other,12,customer145@outlook.com
+146,Customer 146,554.07,31,382.30830000000003,FL,other,1,customer146@yahoo.com
+147,Customer 147,505.73,32,343.89639999999997,PA,phone,10,customer147@example.com
+148,Customer 148,108.84,10,97.956,PA,mobile,7,customer148@gmail.com
+149,Customer 149,883.44,10,795.0960000000001,PA,in store,11,customer149@outlook.com
+150,Customer 150,900.7,42,522.4060000000001,GA,mobile,3,customer150@gmail.com
+151,Customer 151,123.87,8,113.9604,GA,other,1,customer151@yahoo.com
+152,Customer 152,21.37,23,16.454900000000002,TX,phone,12,customer152@hotmail.com
+153,Customer 153,130.27,36,83.37280000000001,NY,in store,11,customer153@example.com
+154,Customer 154,260.35,15,221.2975,FL,other,11,customer154@outlook.com
+155,Customer 155,256.99,34,169.61339999999998,NC,in store,6,customer155@example.com
+156,Customer 156,419.6,42,243.36800000000005,PA,mobile,7,customer156@hotmail.com
+157,Customer 157,859.89,20,687.912,MI,phone,1,customer157@outlook.com
+158,Customer 158,7.75,20,6.2,CA,in store,12,customer158@gmail.com
+159,Customer 159,864.06,22,673.9668,NC,mobile,5,customer159@outlook.com
+160,Customer 160,943.94,9,858.9854,MI,mobile,3,customer160@gmail.com
+161,Customer 161,112.86,36,72.2304,TX,other,6,customer161@hotmail.com
+162,Customer 162,168.74,25,126.555,GA,mobile,5,customer162@outlook.com
+163,Customer 163,353.74,12,311.2912,TX,phone,8,customer163@example.com
+164,Customer 164,126.88,12,111.6544,CA,mobile,1,customer164@hotmail.com
+165,Customer 165,78.45,46,42.36300000000001,IL,mobile,2,customer165@example.com
+166,Customer 166,687.42,35,446.823,PA,other,5,customer166@example.com
+167,Customer 167,28.5,0,28.5,OH,phone,5,customer167@gmail.com
+168,Customer 168,498.11,12,438.33680000000004,GA,phone,10,customer168@gmail.com
+169,Customer 169,758.15,33,507.9604999999999,GA,mobile,1,customer169@example.com
+170,Customer 170,223.14,3,216.4458,FL,phone,8,customer170@hotmail.com
+171,Customer 171,656.58,2,643.4484,IL,mobile,1,customer171@yahoo.com
+172,Customer 172,309.87,22,241.6986,IL,in store,12,customer172@yahoo.com
+173,Customer 173,274.07,0,274.07,CA,mobile,3,customer173@gmail.com
+174,Customer 174,249.63,44,139.7928,IL,in store,11,customer174@gmail.com
+175,Customer 175,335.3,35,217.94500000000002,OH,mobile,9,customer175@hotmail.com
+176,Customer 176,558.72,25,419.04,PA,phone,4,customer176@hotmail.com
+177,Customer 177,371.15,39,226.40149999999997,NY,in store,5,customer177@outlook.com
+178,Customer 178,774.55,34,511.2029999999999,GA,mobile,6,customer178@hotmail.com
+179,Customer 179,359.99,21,284.3921,PA,mobile,8,customer179@yahoo.com
+180,Customer 180,26.83,18,22.0006,MI,mobile,10,customer180@gmail.com
+181,Customer 181,424.38,49,216.4338,FL,other,6,customer181@hotmail.com
+182,Customer 182,170.95,13,148.7265,OH,in store,5,customer182@gmail.com
+183,Customer 183,180.14,50,90.07,IL,mobile,6,customer183@yahoo.com
+184,Customer 184,710.48,9,646.5368000000001,MI,mobile,6,customer184@outlook.com
+185,Customer 185,604.25,30,422.97499999999997,NY,in store,10,customer185@hotmail.com
+186,Customer 186,23.46,1,23.2254,PA,mobile,10,customer186@outlook.com
+187,Customer 187,681.88,40,409.128,NY,phone,6,customer187@outlook.com
+188,Customer 188,258.04,43,147.08280000000002,OH,mobile,6,customer188@hotmail.com
+189,Customer 189,232.82,19,188.5842,CA,in store,8,customer189@outlook.com
+190,Customer 190,806.98,1,798.9102,NC,other,11,customer190@gmail.com
+191,Customer 191,516.76,0,516.76,FL,phone,9,customer191@hotmail.com
+192,Customer 192,363.56,25,272.67,TX,in store,1,customer192@yahoo.com
+193,Customer 193,393.6,32,267.64799999999997,CA,other,7,customer193@yahoo.com
+194,Customer 194,992.57,12,873.4616000000001,IL,other,1,customer194@gmail.com
+195,Customer 195,420.24,6,395.0256,IL,phone,3,customer195@example.com
+196,Customer 196,17.89,31,12.3441,NC,phone,5,customer196@yahoo.com
+197,Customer 197,707.41,38,438.5942,PA,mobile,2,customer197@outlook.com
+198,Customer 198,229.85,1,227.5515,NY,in store,1,customer198@example.com
+199,Customer 199,859.49,49,438.3399,GA,other,11,customer199@hotmail.com
+200,Customer 200,185.32,42,107.4856,OH,other,7,customer200@hotmail.com
