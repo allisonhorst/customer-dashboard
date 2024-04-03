@@ -1,14 +1,11 @@
 # Customer dashboard
 
-<div class="grid grid-cols-3">
-  <div class="card grid-colspan-2">${resize((width) => chart1(width))}</div>
-  <div class="card">${resize((width) => chart2(width))}</div>
-  <div class="card">${table1}</div>
-  <div class="card grid-colspan-2">${resize((width) => chart3(width))}</div>
-
-</div>
-
-<!-- Access data from loader, make charts & table -->
+```js
+display(chart1(width));
+display(chart2(width));
+display(chart3(width));
+display(table1);
+```
 
 ```js
 const customers = FileAttachment("data/customer_orders.csv").csv({
